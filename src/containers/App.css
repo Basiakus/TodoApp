@@ -1,0 +1,15 @@
+.TodoApp {
+    background-color: blue;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    height: 100%;
+}
+
